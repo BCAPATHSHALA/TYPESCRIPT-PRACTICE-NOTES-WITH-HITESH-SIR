@@ -1,0 +1,8 @@
+18. Installation of TS ( 2:39 Minutes )
+> tsc --init
+> npm init -y
+> mkdir src dist
+> touch index.html
+> tsc -W (Run TS in Watch Mode)
+> npm i lite-server
+> npm start ( Lite server to run the html on browser)
