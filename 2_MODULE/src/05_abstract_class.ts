@@ -31,3 +31,5 @@ const objectHC = new Instagram("mode1", "blue", 3);
 const val: number = objectHC.getReelTime();
 console.log(val); // 8
 objectHC.getSepia(); // Sepia
+
+export {};

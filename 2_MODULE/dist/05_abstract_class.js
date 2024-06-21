@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 // Create the abstarct class TakePhoto
 class TakePhoto {
     constructor(cameraMode, filter) {
