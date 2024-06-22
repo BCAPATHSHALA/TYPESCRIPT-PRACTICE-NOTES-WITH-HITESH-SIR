@@ -1,7 +1,6 @@
 # TypeScript Learning Path
 
 [![TypeScript Version](https://img.shields.io/npm/v/typescript?label=TypeScript&logo=typescript)](https://www.typescriptlang.org/)
-[![Node.js Version](https://img.shields.io/node/v/typescript?label=Node.js&logo=node.js)](https://nodejs.org/)
 ![GitHub last commit](https://img.shields.io/github/last-commit/bcapathshala/TYPESCRIPT-PRACTICE-NOTES-WITH-HITESH-SIR)
 ![GitHub issues](https://img.shields.io/github/issues/bcapathshala/TYPESCRIPT-PRACTICE-NOTES-WITH-HITESH-SIR)
 
